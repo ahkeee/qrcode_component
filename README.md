@@ -19,8 +19,8 @@ This is a solution to the QR code component.
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/ahkeee/qrcode_component]
+- Live Site URL: [https://ahkeee.github.io/qrcode_component/]
 
 ## My process
 
