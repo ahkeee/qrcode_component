@@ -17,7 +17,7 @@ body {
     align-items: center;
     background-color:  hsl(212, 45%, 89%);
     width: 100vw;
-    height: 100vh;
+    min-height: 100vh;
 }
 
 .qr-container {
@@ -35,7 +35,7 @@ body {
     
 }
 
-.qr-code img {
+.qr-container img {
     border-radius: 15px;
     width: 300px;
     height: 300px;
@@ -44,7 +44,7 @@ body {
 .main-text {
     text-align: center;
     margin: 0px 15px 0px 15px;
-    font-size: 26px;
+    font-size: 1.5rem;
     font-weight: 700;
     color: hsl(218, 44%, 22%);
 }
@@ -52,7 +52,7 @@ body {
 .subtext {
     text-align: center;
     margin: 0px 15px 0px 15px;
-    font-size: 18px;
+    font-size: 1.1rem;
     color: hsl(220, 15%, 55%);
 }
 
